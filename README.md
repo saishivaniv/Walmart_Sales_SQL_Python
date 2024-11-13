@@ -6,7 +6,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 
 # Project Steps
 # 1. Set Up the Environment
-* Tools Used: Visual Studio Code (VS Code), Python, SQL (MySQL and PostgreSQL)
+* Tools Used: Visual Studio Code (VS Code), Python, SQL (MySQL)
 * Goal: Create a structured workspace within VS Code and organize project folders for smooth development and data handling.
   
 # 2. Set Up Kaggle API
@@ -17,7 +17,7 @@ This project is an end-to-end data analysis solution designed to extract critica
    
 # 3. Download Walmart Sales Data
 * Data Source: Use the Kaggle API to download the Walmart sales datasets from Kaggle.
-* Dataset Link: Walmart Sales Dataset
+* Dataset Link: [!https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets]Walmart Sales Dataset
 * Storage: Save the data in the data/ folder for easy reference and access.
   
 # 4. Install Required Libraries and Load Data
