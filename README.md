@@ -90,7 +90,7 @@ pip install -r requirements.txt
 |-- sql_queries/              # SQL scripts for analysis and queries
 |-- README.md                 # Project documentation
 |-- requirements.txt          # List of required Python libraries
-|-- main.py                   # Main script for loading, cleaning, and processing data
+|-- project.ipynb                   # Main script for loading, cleaning, and processing data
 ```
 
 # Results and Insights
